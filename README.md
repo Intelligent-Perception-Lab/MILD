@@ -10,7 +10,7 @@ Most existing works focus on collecting data using tools like the Intel 5300 NIC
 - **Communication Packets vs. Probing Packets**: During actual communication between smartphones and access points, various special data patterns are present, which can affect the characteristics of the CSI measured by the AP.
 - **Off-the-shelf Terminal vs. Specialized Transmitter**: The diversity in hardware implementations across different smartphone manufacturers further influences the CSI data measured by the AP.
 
-![localization_scenario_comparision](/Users/crownz/Downloads/MILD(Multi-smartphone Indoor Localization Dataset)/figs/localization_scenario_comparision.png)
+![localization_scenario_comparision](./figs/localization_scenario_comparision.png)
 
 To advance CSI-based localization toward real-world applications, it is necessary to conduct targeted research addressing the above issues. To facilitate such efforts, we provide this dataset for further investigation.
 
