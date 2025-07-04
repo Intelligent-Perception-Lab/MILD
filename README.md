@@ -92,7 +92,7 @@ The specific data collection area is indicated by the red rectangle in the figur
 
 ## How to access the MILD dataset
 
-To obtain the dataset, please sign the [agreement](https://github.com/Intelligent-Perception-Lab/MILD/blob/main/files/MILD DATASET RELEASE AGREEMENT.pdf) by yourself. And **additionally**:
+To obtain the dataset, please sign the [agreement](https://github.com/Intelligent-Perception-Lab/MILD/blob/main/files/MILD DATASET RELEASE AGREEMENT.pdf) by yourself. And **additionally**: 
 
 - If you are a researcher from China, please ensure that the agreement is stamped with the official seal of your institution.
 - If you are not from China, please ask your director or team leader to sign the agreement.
